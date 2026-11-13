@@ -1,6 +1,6 @@
-# Simulation
+# The R code for Policy Learning with Unmeasured Spatial Confounding: A Matching-Based Approach
 
-[`simulation.R`](simulation.R) implements the simulation studies in Section 3 of *Policy Learning with Unmeasured Spatial Confounding: A Matching-Based Approach*.
+[`simulation.R`](simulation.R) implements the simulation studies in Section 3 of our work *Policy Learning with Unmeasured Spatial Confounding: A Matching-Based Approach*.
 
 The script compares the proposed spatial matching-based methods with nonspatial matching-based methods, Policy Tree, and Q-learning in four scenarios: Tree-X, Non-tree-X, Tree-XU, and Non-tree-XU.
 
